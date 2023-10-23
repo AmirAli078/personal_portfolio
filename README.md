@@ -1,3 +1,7 @@
+![preview](https://github.com/AmirAli078/personal_portfolio/assets/123484766/38959f13-7083-4969-bc3b-22de88b67ce9)
+
+
+
 # Amir's Portfolio
 
 Welcome to Amir's Portfolio, a dedicated space to showcase my professional skills, work experience, and provide an easy way to get in touch with me. This website is a testament to my journey as a Java Developer and was crafted with JAVA, JAVAEE, DATABASE, HTML, CSS, and JavaScript to help you learn more about me and my expertise.
